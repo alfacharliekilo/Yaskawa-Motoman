@@ -1,6 +1,12 @@
 # Yaskawa-Motoman
 Code repository for Yaskawa Motoman projects
 
+Disclaimer:
+-All code contained herewithin is my own creation, or creation of collaborators. There is NO affilition with Yaskawa Motoman and this software is NOT supported
+by Yaskawa Motoman in any way.
+-Use this code repository at your own risk. I am not liable for any problems, crashes, or issues otherwise related to the use of this code.
+-This code is intended for, and developed on, the Yaskawa Motoman DX200 robot controller ONLY. It has not been tested on any other type of robot controller.
+
 Existing projects:
 - yaskawa_VARNameParser
 
