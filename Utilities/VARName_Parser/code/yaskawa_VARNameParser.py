@@ -19,7 +19,8 @@ __version__ = "0.1.0"
 __maintainer__ = ["Rebecca Iglesias-Flores",
                   "Daniel Luna",
                   "Andrew King"]
-__email__ = ["dluna@noveon.co",
+__email__ = ["irebecca@seas.upenn.edu"
+             "dluna@noveon.co",
              "aking@noveon.co",
              "acking1187@gmail.com"]
 __status__ = "Dev"
